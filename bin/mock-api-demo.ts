@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import * as cdk from 'aws-cdk-lib';
 import { MockApiDemoStack } from '../lib/mock-api-demo-stack';
+import { MockApiProxyDemoStack } from '../lib/mock-api-proxy-demo-stack';
 
 const app = new cdk.App();
 new MockApiDemoStack(app, 'MockApiDemoStack', {
@@ -18,3 +19,5 @@ new MockApiDemoStack(app, 'MockApiDemoStack', {
 
   /* For more information, see https://docs.aws.amazon.com/cdk/latest/guide/environments.html */
 });
+
+new MockApiProxyDemoStack(app, 'MockApiProxyDemoStack');

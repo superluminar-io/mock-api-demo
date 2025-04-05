@@ -1,0 +1,1475 @@
+[
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/wizards",
+    "body": "",
+    "status": 200,
+    "response": [
+      {
+        "elixirs": [
+          {
+            "id": "b839c9e1-1ee6-4e77-a05a-e862a0f9724c",
+            "name": "Mrs Skower's All-Purpose Magical Mess Remover"
+          }
+        ],
+        "id": "03ca5597-ded5-419c-9620-31eb44a04457",
+        "firstName": null,
+        "lastName": "Mrs Skower"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "4759660e-5a6f-445b-8514-e1768bf0445c",
+            "name": "First Love Beguiling Bubbles"
+          },
+          {
+            "id": "476947ec-61c3-4782-a848-dda45783ccd5",
+            "name": "Heartbreak Teardrops"
+          },
+          {
+            "id": "4a9a5aa2-8e74-4635-b922-ceb6d6286416",
+            "name": "Twilight Moonbeams"
+          },
+          {
+            "id": "8178cc4f-6fd0-4c55-a2d0-53d23c7f9197",
+            "name": "Cupid Crystals"
+          },
+          {
+            "id": "ae0f3421-1acf-4323-9822-d535261d949f",
+            "name": "Bruise removal paste"
+          },
+          {
+            "id": "aecb6b11-d1b8-4b3d-9be1-c572932426c9",
+            "name": "Love potion"
+          },
+          {
+            "id": "d03e5d38-9a26-4f3a-a594-fe9f7cce9d08",
+            "name": "Ten-Second Pimple Vanisher"
+          },
+          {
+            "id": "d14ca162-df3f-4053-a3c9-58de82041646",
+            "name": "Kissing Concoction"
+          }
+        ],
+        "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+        "firstName": "Fred",
+        "lastName": "Weasley"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "130a341b-8544-4ebf-bff6-ca83082d9853",
+            "name": "Sleekeazy's Hair Potion"
+          }
+        ],
+        "id": "30bd3b76-57f0-4a25-be3b-41bbeccae927",
+        "firstName": "Fleamont",
+        "lastName": "Potter"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "4979b527-74c8-4a3c-8879-53178eb9a73d",
+            "name": "Dr Ubbly's Oblivious Unction"
+          }
+        ],
+        "id": "46e84861-0489-4239-b940-dd794aa631a2",
+        "firstName": null,
+        "lastName": "Dr Ubbly"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "a22648df-4c70-4da0-9c9f-fe2c88c05df1",
+            "name": "Grand Pepperup Potion"
+          },
+          {
+            "id": "cb01e99b-8298-4402-9d6a-47b96c44ba2c",
+            "name": "Pepperup Potion"
+          }
+        ],
+        "id": "599265f8-029a-45ea-9a66-29715f34aef0",
+        "firstName": "Glover",
+        "lastName": "Hipworth"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "6cbdd5ef-101d-4c9f-bab5-73b1110d3def",
+            "name": "Elixir of Life"
+          }
+        ],
+        "id": "913407b0-9c11-4002-a080-6874436c3a93",
+        "firstName": "Nicolas",
+        "lastName": "Flamel"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "0e7228e4-3050-411f-aaa7-6a175737e975",
+            "name": "Skele-Gro"
+          }
+        ],
+        "id": "9b528a63-0a01-4b91-992d-9afed9b841e7",
+        "firstName": "Linfred",
+        "lastName": "of Stinchcombe"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "eb6721b6-3d50-4ca0-b465-418286a16557",
+            "name": "Beautification Potion"
+          }
+        ],
+        "id": "9cf3a28d-ef13-45b9-83ec-801663d2abe1",
+        "firstName": "Sacharissa",
+        "lastName": "Tugwood"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "9aaa3ec4-47f8-472b-9908-7f016282391f",
+            "name": "Gregory's Unctuous Unction"
+          }
+        ],
+        "id": "9dc37aa6-6c51-4649-8f77-8ac49abb4f09",
+        "firstName": "Gregory",
+        "lastName": "the Smarmy"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "4759660e-5a6f-445b-8514-e1768bf0445c",
+            "name": "First Love Beguiling Bubbles"
+          },
+          {
+            "id": "476947ec-61c3-4782-a848-dda45783ccd5",
+            "name": "Heartbreak Teardrops"
+          },
+          {
+            "id": "4a9a5aa2-8e74-4635-b922-ceb6d6286416",
+            "name": "Twilight Moonbeams"
+          },
+          {
+            "id": "8178cc4f-6fd0-4c55-a2d0-53d23c7f9197",
+            "name": "Cupid Crystals"
+          },
+          {
+            "id": "ae0f3421-1acf-4323-9822-d535261d949f",
+            "name": "Bruise removal paste"
+          },
+          {
+            "id": "aecb6b11-d1b8-4b3d-9be1-c572932426c9",
+            "name": "Love potion"
+          },
+          {
+            "id": "d03e5d38-9a26-4f3a-a594-fe9f7cce9d08",
+            "name": "Ten-Second Pimple Vanisher"
+          },
+          {
+            "id": "d14ca162-df3f-4053-a3c9-58de82041646",
+            "name": "Kissing Concoction"
+          }
+        ],
+        "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+        "firstName": "George",
+        "lastName": "Weasley"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "9c2d8cfd-4c93-4201-99ed-e469bbb8b7d8",
+            "name": "Everklena"
+          }
+        ],
+        "id": "b473e42e-c6f8-409a-9c97-71b565078bef",
+        "firstName": "Erica",
+        "lastName": "Stainwright"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "aecb6b11-d1b8-4b3d-9be1-c572932426c9",
+            "name": "Love potion"
+          }
+        ],
+        "id": "c52271ca-29f7-426f-924b-217634110c09",
+        "firstName": "Laverne",
+        "lastName": "de Montmorency"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "afe48e27-d5de-4a14-9975-65a5b45aadaa",
+            "name": "Baruffio's Brain Elixir"
+          }
+        ],
+        "id": "d986fd0c-daa7-4d6c-bb93-83034ec32193",
+        "firstName": null,
+        "lastName": "Baruffio"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "b5fc0766-9c72-4a77-b4ba-5cce9c8487fd",
+            "name": "Wolfsbane Potion"
+          }
+        ],
+        "id": "dafacc67-40ab-4087-ac31-1f34a2244a8a",
+        "firstName": "Damocles",
+        "lastName": "Belby"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "53a2133a-d417-4cd7-9128-739704e1043a",
+            "name": "Regerminating Potion"
+          }
+        ],
+        "id": "f418eebe-a58c-46db-8739-a3e27993753c",
+        "firstName": "Tilden",
+        "lastName": "Toots"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "f1fc3a27-a767-4524-a0a8-2cbfac74defc",
+            "name": "Emerald Potion"
+          }
+        ],
+        "id": "f4b9e44f-ea3e-42d1-9895-7aacc0169d02",
+        "firstName": "Tom",
+        "lastName": "Riddle"
+      },
+      {
+        "elixirs": [
+          {
+            "id": "5deb712a-8f28-42bd-a8f3-3efb5d3feda6",
+            "name": "Shrinking Solution"
+          },
+          {
+            "id": "dcc62e6c-77ca-4227-bb6c-2dfbea0660b5",
+            "name": "Doxycide"
+          },
+          {
+            "id": "eb6721b6-3d50-4ca0-b465-418286a16557",
+            "name": "Beautification Potion"
+          },
+          {
+            "id": "f552960d-dfe6-43f5-8239-63c35d6101ab",
+            "name": "Felix Felicis"
+          }
+        ],
+        "id": "f86280b1-faa6-44fd-b8a9-f7a4556f8d20",
+        "firstName": "Zygmunt",
+        "lastName": "Budge"
+      }
+    ],
+    "rawHeaders": {
+      "content-length": "4339",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/b839c9e1-1ee6-4e77-a05a-e862a0f9724c",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "b839c9e1-1ee6-4e77-a05a-e862a0f9724c",
+      "name": "Mrs Skower's All-Purpose Magical Mess Remover",
+      "effect": "Cleans stains",
+      "sideEffects": null,
+      "characteristics": "Strong acrid odour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "03ca5597-ded5-419c-9620-31eb44a04457",
+          "firstName": null,
+          "lastName": "Mrs Skower"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "356",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/4759660e-5a6f-445b-8514-e1768bf0445c",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "4759660e-5a6f-445b-8514-e1768bf0445c",
+      "name": "First Love Beguiling Bubbles",
+      "effect": "Causes the drinker to become infatuated with the giver of the potion",
+      "sideEffects": null,
+      "characteristics": "Red in colour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "5eca7f12-fd9d-4110-abda-61ff85d6b598",
+          "name": "Pearl Dust"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "541",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/476947ec-61c3-4782-a848-dda45783ccd5",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "476947ec-61c3-4782-a848-dda45783ccd5",
+      "name": "Heartbreak Teardrops",
+      "effect": "Causes the drinker to become infatuated with the giver of the potion",
+      "sideEffects": null,
+      "characteristics": "Red in colour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "5eca7f12-fd9d-4110-abda-61ff85d6b598",
+          "name": "Pearl Dust"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "533",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/4a9a5aa2-8e74-4635-b922-ceb6d6286416",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "4a9a5aa2-8e74-4635-b922-ceb6d6286416",
+      "name": "Twilight Moonbeams",
+      "effect": "Causes the drinker to become infatuated with the giver of the potion",
+      "sideEffects": null,
+      "characteristics": "Red in colour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "5eca7f12-fd9d-4110-abda-61ff85d6b598",
+          "name": "Pearl Dust"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "531",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/8178cc4f-6fd0-4c55-a2d0-53d23c7f9197",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "8178cc4f-6fd0-4c55-a2d0-53d23c7f9197",
+      "name": "Cupid Crystals",
+      "effect": "Causes the drinker to become infatuated with the giver of the potion",
+      "sideEffects": null,
+      "characteristics": null,
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "5eca7f12-fd9d-4110-abda-61ff85d6b598",
+          "name": "Pearl Dust"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "516",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/ae0f3421-1acf-4323-9822-d535261d949f",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "ae0f3421-1acf-4323-9822-d535261d949f",
+      "name": "Bruise removal paste",
+      "effect": "Heals bruises in an hour",
+      "sideEffects": null,
+      "characteristics": "Thick, yellow paste",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": "Weasleys' Wizard Wheezes"
+    },
+    "rawHeaders": {
+      "content-length": "452",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/aecb6b11-d1b8-4b3d-9be1-c572932426c9",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "aecb6b11-d1b8-4b3d-9be1-c572932426c9",
+      "name": "Love potion",
+      "effect": "Infatuation with whoever offers the potion",
+      "sideEffects": "Embarrassment on the part of the drinker",
+      "characteristics": "Pink in colour",
+      "time": null,
+      "difficulty": "Advanced",
+      "ingredients": [
+        {
+          "id": "5751ebd0-1caf-444e-a453-d5b918d6d4be",
+          "name": "Rose Petals"
+        },
+        {
+          "id": "5eca7f12-fd9d-4110-abda-61ff85d6b598",
+          "name": "Pearl Dust"
+        },
+        {
+          "id": "62b7d1fa-a09a-40fe-9ad4-e9877d460ef9",
+          "name": "Peppermint"
+        },
+        {
+          "id": "a42bb92a-bb78-4296-8269-5ca95367e331",
+          "name": "Ashwinder egg"
+        },
+        {
+          "id": "a4c88a78-a105-45e5-bbd8-116ff1a816a3",
+          "name": "Powdered moonstone"
+        },
+        {
+          "id": "f85de98a-5cfc-45a4-8f7c-675f07064728",
+          "name": "Rose thorns"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "c52271ca-29f7-426f-924b-217634110c09",
+          "firstName": "Laverne",
+          "lastName": "de Montmorency"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "977",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757056\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=LW5Sp30DqIRhmdbAoITGVNolSjc2hnevcrFSUYQDMmM%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757056\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/d03e5d38-9a26-4f3a-a594-fe9f7cce9d08",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "d03e5d38-9a26-4f3a-a594-fe9f7cce9d08",
+      "name": "Ten-Second Pimple Vanisher",
+      "effect": "Treats boils, pimples, blackheads and acne",
+      "sideEffects": null,
+      "characteristics": "Pink in colour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": "Weasleys' Wizard Wheezes"
+    },
+    "rawHeaders": {
+      "content-length": "471",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/d14ca162-df3f-4053-a3c9-58de82041646",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "d14ca162-df3f-4053-a3c9-58de82041646",
+      "name": "Kissing Concoction",
+      "effect": "Causes the drinker to become infatuated with the giver of the potion",
+      "sideEffects": null,
+      "characteristics": "Clear in colour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "5eca7f12-fd9d-4110-abda-61ff85d6b598",
+          "name": "Pearl Dust"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "118e7366-1c65-4275-8121-8f6c553e5783",
+          "firstName": "Fred",
+          "lastName": "Weasley"
+        },
+        {
+          "id": "9f03933e-232d-4bb6-8e74-4c5f97e7f273",
+          "firstName": "George",
+          "lastName": "Weasley"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "533",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/130a341b-8544-4ebf-bff6-ca83082d9853",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "130a341b-8544-4ebf-bff6-ca83082d9853",
+      "name": "Sleekeazy's Hair Potion",
+      "effect": "Makes hair more manageable",
+      "sideEffects": "Unique results for redheads",
+      "characteristics": null,
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "3b8a1a72-10d8-4eb0-a3fb-c0f138bc02bc",
+          "name": "Petroleum Jelly"
+        },
+        {
+          "id": "67e30811-3e08-48eb-8735-fdbfa5f90c71",
+          "name": "Asian Dragon Hair"
+        },
+        {
+          "id": "eeb7d5eb-f986-4efc-9f09-a7ef85f2df44",
+          "name": "Gomas Barbadensis"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "30bd3b76-57f0-4a25-be3b-41bbeccae927",
+          "firstName": "Fleamont",
+          "lastName": "Potter"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "574",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:36 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/4979b527-74c8-4a3c-8879-53178eb9a73d",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "4979b527-74c8-4a3c-8879-53178eb9a73d",
+      "name": "Dr Ubbly's Oblivious Unction",
+      "effect": "Heals wounds left by negative thoughts",
+      "sideEffects": null,
+      "characteristics": null,
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "46e84861-0489-4239-b940-dd794aa631a2",
+          "firstName": null,
+          "lastName": "Dr Ubbly"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "346",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/a22648df-4c70-4da0-9c9f-fe2c88c05df1",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "a22648df-4c70-4da0-9c9f-fe2c88c05df1",
+      "name": "Grand Pepperup Potion",
+      "effect": "Relieves and/or cures cold symptoms",
+      "sideEffects": "Causes steam to come out of the drinker's ears for a few hours",
+      "characteristics": "Red in colour",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "45011b45-36e1-490a-9db3-32fd4d825cbe",
+          "name": "Octopus Powder"
+        },
+        {
+          "id": "5f27f2ee-c12c-45dc-ad2d-b5ab7466d5a1",
+          "name": "Bicorn horn"
+        },
+        {
+          "id": "eab464b5-de1a-447d-9154-d73900e53818",
+          "name": "Mandrake Root"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "599265f8-029a-45ea-9a66-29715f34aef0",
+          "firstName": "Glover",
+          "lastName": "Hipworth"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "616",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/cb01e99b-8298-4402-9d6a-47b96c44ba2c",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "cb01e99b-8298-4402-9d6a-47b96c44ba2c",
+      "name": "Pepperup Potion",
+      "effect": "Cures common cold; Warms up recipient",
+      "sideEffects": "Steam emits from drinker's ears",
+      "characteristics": "Red in colour",
+      "time": null,
+      "difficulty": "Moderate",
+      "ingredients": [
+        {
+          "id": "5f27f2ee-c12c-45dc-ad2d-b5ab7466d5a1",
+          "name": "Bicorn horn"
+        },
+        {
+          "id": "846be123-c40f-4156-91f4-800305df7485",
+          "name": "Jewelweed"
+        },
+        {
+          "id": "eab464b5-de1a-447d-9154-d73900e53818",
+          "name": "Mandrake Root"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "599265f8-029a-45ea-9a66-29715f34aef0",
+          "firstName": "Glover",
+          "lastName": "Hipworth"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "577",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/6cbdd5ef-101d-4c9f-bab5-73b1110d3def",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "6cbdd5ef-101d-4c9f-bab5-73b1110d3def",
+      "name": "Elixir of Life",
+      "effect": "Immortality",
+      "sideEffects": "Drinker becomes dependent upon advanced age",
+      "characteristics": null,
+      "time": null,
+      "difficulty": "OneOfAKind",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "913407b0-9c11-4002-a080-6874436c3a93",
+          "firstName": "Nicolas",
+          "lastName": "Flamel"
+        }
+      ],
+      "manufacturer": "The Philosopher's Stone"
+    },
+    "rawHeaders": {
+      "content-length": "373",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/0e7228e4-3050-411f-aaa7-6a175737e975",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "0e7228e4-3050-411f-aaa7-6a175737e975",
+      "name": "Skele-Gro",
+      "effect": "Restores bones",
+      "sideEffects": null,
+      "characteristics": "Smokes when poured; Vile taste; Burns on the way down; Yellow in colour",
+      "time": null,
+      "difficulty": "Moderate",
+      "ingredients": [
+        {
+          "id": "0736a23d-71e9-447c-ac3e-519dcdbbab76",
+          "name": "Scarab beetles"
+        },
+        {
+          "id": "17b5e964-438a-4526-b307-c149dc5e4a73",
+          "name": "Fanged Geranium"
+        },
+        {
+          "id": "64f6356e-d708-41ab-9fad-c57e0a96d0b9",
+          "name": "Chinese Chomping Cabbage"
+        },
+        {
+          "id": "a2c2d720-4cce-4003-9c12-6d7cee1fa71b",
+          "name": "Arm bone"
+        },
+        {
+          "id": "cd84f418-b0d1-4dd6-93eb-69c9bc42e8b1",
+          "name": "Red spider"
+        },
+        {
+          "id": "e968c3bc-8c15-4aeb-9f0b-05eeb455ae25",
+          "name": "Puffer-fish"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "9b528a63-0a01-4b91-992d-9afed9b841e7",
+          "firstName": "Linfred",
+          "lastName": "of Stinchcombe"
+        }
+      ],
+      "manufacturer": "Rubens Winikus and Company Inc."
+    },
+    "rawHeaders": {
+      "content-length": "830",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/eb6721b6-3d50-4ca0-b465-418286a16557",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "eb6721b6-3d50-4ca0-b465-418286a16557",
+      "name": "Beautification Potion",
+      "effect": "Enhances the attractiveness of the drinker's physical appearance",
+      "sideEffects": null,
+      "characteristics": "Changes colour; Emits multi-colour bubbles",
+      "time": null,
+      "difficulty": "Moderate",
+      "ingredients": [
+        {
+          "id": "53c34f93-06c1-407c-9e30-be4dd09554e5",
+          "name": "Lady's Mantle"
+        },
+        {
+          "id": "5751ebd0-1caf-444e-a453-d5b918d6d4be",
+          "name": "Rose Petals"
+        },
+        {
+          "id": "5afb72e5-bdcf-4ec8-a078-9de8f68f0807",
+          "name": "Ginger roots"
+        },
+        {
+          "id": "64ec2d51-a86b-4b85-8b60-01fc6340e5f5",
+          "name": "Unicorn hair"
+        },
+        {
+          "id": "8520f825-89e7-4645-9793-0be514a4286f",
+          "name": "Fairy wings"
+        },
+        {
+          "id": "8e411855-73c6-447c-83d4-0524988c7980",
+          "name": "Morning dew"
+        },
+        {
+          "id": "9ac7549d-57a2-41c4-a5dc-4533864162cf",
+          "name": "Boomslang skin"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "9cf3a28d-ef13-45b9-83ec-801663d2abe1",
+          "firstName": "Sacharissa",
+          "lastName": "Tugwood"
+        },
+        {
+          "id": "f86280b1-faa6-44fd-b8a9-f7a4556f8d20",
+          "firstName": "Zygmunt",
+          "lastName": "Budge"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "975",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/9aaa3ec4-47f8-472b-9908-7f016282391f",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "9aaa3ec4-47f8-472b-9908-7f016282391f",
+      "name": "Gregory's Unctuous Unction",
+      "effect": "Makes the drinker think the one who gave them the potion is their best friend",
+      "sideEffects": null,
+      "characteristics": "Green smoke",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "9dc37aa6-6c51-4649-8f77-8ac49abb4f09",
+          "firstName": "Gregory",
+          "lastName": "the Smarmy"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "399",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/9c2d8cfd-4c93-4201-99ed-e469bbb8b7d8",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "9c2d8cfd-4c93-4201-99ed-e469bbb8b7d8",
+      "name": "Everklena",
+      "effect": "Supposedly cleans, but actually spawns mould and grime",
+      "sideEffects": null,
+      "characteristics": null,
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "b473e42e-c6f8-409a-9c97-71b565078bef",
+          "firstName": "Erica",
+          "lastName": "Stainwright"
+        }
+      ],
+      "manufacturer": "Erica Stainwright"
+    },
+    "rawHeaders": {
+      "content-length": "364",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757057\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=XiNPpyrxpYxQ1cy7T78pGopik1QHjBFJQ7NcN0xTj2U%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757057\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/afe48e27-d5de-4a14-9975-65a5b45aadaa",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "afe48e27-d5de-4a14-9975-65a5b45aadaa",
+      "name": "Baruffio's Brain Elixir",
+      "effect": "Allegedly increases one's brain power",
+      "sideEffects": "Possibly harmful mental side effects if brewed incorrectly",
+      "characteristics": "Green in colour",
+      "time": "Twelve hours",
+      "difficulty": "Unknown",
+      "ingredients": [
+        {
+          "id": "0706c6b8-7912-4c9e-b6fd-cb6378a61d69",
+          "name": "Runespoor eggs"
+        },
+        {
+          "id": "2ce52cc3-6b48-44ee-8857-d000b6267a8f",
+          "name": "Frog brains"
+        },
+        {
+          "id": "5f8b1f6c-699a-467d-8c7b-cba1f4033aa5",
+          "name": "Powdered dragon claw"
+        },
+        {
+          "id": "b5ea7f20-7348-471b-b7c0-8244ebb5bd8d",
+          "name": "Leaping Toadstools"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "d986fd0c-daa7-4d6c-bb93-83034ec32193",
+          "firstName": null,
+          "lastName": "Baruffio"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "705",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/b5fc0766-9c72-4a77-b4ba-5cce9c8487fd",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "b5fc0766-9c72-4a77-b4ba-5cce9c8487fd",
+      "name": "Wolfsbane Potion",
+      "effect": "Allows werewolves to keep their minds post-transformation",
+      "sideEffects": null,
+      "characteristics": "Faint blue smoke; Unpleasant taste; Rendered useless with sugar",
+      "time": null,
+      "difficulty": "Advanced",
+      "ingredients": [
+        {
+          "id": "10854192-d05c-447b-9373-8c709b6e4fee",
+          "name": "Wolfsbane"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "dafacc67-40ab-4087-ac31-1f34a2244a8a",
+          "firstName": "Damocles",
+          "lastName": "Belby"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "482",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:37 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/53a2133a-d417-4cd7-9128-739704e1043a",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "53a2133a-d417-4cd7-9128-739704e1043a",
+      "name": "Regerminating Potion",
+      "effect": "Germinates plants",
+      "sideEffects": null,
+      "characteristics": "Green or golden in colour",
+      "time": null,
+      "difficulty": "Advanced",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "f418eebe-a58c-46db-8739-a3e27993753c",
+          "firstName": "Tilden",
+          "lastName": "Toots"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "342",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:38 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/f1fc3a27-a767-4524-a0a8-2cbfac74defc",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "f1fc3a27-a767-4524-a0a8-2cbfac74defc",
+      "name": "Emerald Potion",
+      "effect": "Induces fear, delirium, intense stomach pain and extreme thirst in the drinker",
+      "sideEffects": null,
+      "characteristics": "Emerald green in colour; Glows phosphorescently",
+      "time": null,
+      "difficulty": "Unknown",
+      "ingredients": [],
+      "inventors": [
+        {
+          "id": "f4b9e44f-ea3e-42d1-9895-7aacc0169d02",
+          "firstName": "Tom",
+          "lastName": "Riddle"
+        }
+      ],
+      "manufacturer": "Lord Voldemort"
+    },
+    "rawHeaders": {
+      "content-length": "428",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:38 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/5deb712a-8f28-42bd-a8f3-3efb5d3feda6",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "5deb712a-8f28-42bd-a8f3-3efb5d3feda6",
+      "name": "Shrinking Solution",
+      "effect": "Causes living beings to shrink to a smaller form",
+      "sideEffects": "Poisonous if brewed incorrectly",
+      "characteristics": "Acid green in colour",
+      "time": null,
+      "difficulty": "Moderate",
+      "ingredients": [
+        {
+          "id": "39609b2a-05b3-43fc-b386-39240e7f588b",
+          "name": "Sliced caterpillars"
+        },
+        {
+          "id": "7066273c-eb62-4671-acfe-fee02cdcf7ee",
+          "name": "Peeled Shrivelfig"
+        },
+        {
+          "id": "8166d0c0-6f27-42da-ba20-50356a2f4ba5",
+          "name": "Rat spleens"
+        },
+        {
+          "id": "95498bf8-302f-43cd-9c55-b11c19a6f9b5",
+          "name": "Minced daisy roots"
+        },
+        {
+          "id": "d39884f4-106b-4f24-a1bf-0a2c419402d9",
+          "name": "Leech juice"
+        },
+        {
+          "id": "de736ba2-3a67-4bce-b451-f40bac39fd03",
+          "name": "Wormwood"
+        },
+        {
+          "id": "fb57e0b5-4df7-4cfb-963c-cafb874af0b2",
+          "name": "Cowbane"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "f86280b1-faa6-44fd-b8a9-f7a4556f8d20",
+          "firstName": "Zygmunt",
+          "lastName": "Budge"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "878",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:38 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/dcc62e6c-77ca-4227-bb6c-2dfbea0660b5",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "dcc62e6c-77ca-4227-bb6c-2dfbea0660b5",
+      "name": "Doxycide",
+      "effect": "Temporarily stuns Doxies so that the pests can be removed from a home",
+      "sideEffects": null,
+      "characteristics": "Black in colour; Typically delivered as a spray",
+      "time": null,
+      "difficulty": "Moderate",
+      "ingredients": [
+        {
+          "id": "1ba5cee0-8580-4f9b-9494-de677e224593",
+          "name": "Dragon liver"
+        },
+        {
+          "id": "1c788f6c-68ec-4f37-8700-ad482f9135e4",
+          "name": "Bundimun Ooze"
+        },
+        {
+          "id": "4399021c-e903-4721-83cd-b7d11b66aa14",
+          "name": "Streeler shells"
+        },
+        {
+          "id": "570eec4c-e83d-4f5f-afe8-bbefdb5ab4e0",
+          "name": "Tormentil tincture"
+        },
+        {
+          "id": "6f4d1ebe-a550-4bc7-9907-4e82f143206d",
+          "name": "Hemlock essence"
+        },
+        {
+          "id": "9057c569-4429-4deb-80f5-29bbc3d03aad",
+          "name": "Cowbane essence"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "f86280b1-faa6-44fd-b8a9-f7a4556f8d20",
+          "firstName": "Zygmunt",
+          "lastName": "Budge"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "828",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:38 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  },
+  {
+    "scope": "https://wizard-world-api.herokuapp.com:443",
+    "method": "GET",
+    "path": "/elixirs/f552960d-dfe6-43f5-8239-63c35d6101ab",
+    "body": "",
+    "status": 200,
+    "response": {
+      "id": "f552960d-dfe6-43f5-8239-63c35d6101ab",
+      "name": "Felix Felicis",
+      "effect": "Makes the drinker lucky",
+      "sideEffects": "Giddiness and recklessness with overuse; Extremely toxic in large quantities; Highly disastrous if brewed incorrectly",
+      "characteristics": "Molten gold in colour; Droplets leap like goldfish above potion's surface when in cauldron",
+      "time": null,
+      "difficulty": "Advanced",
+      "ingredients": [
+        {
+          "id": "3a66946a-eba8-4282-a2ab-e6ecb2e75c9c",
+          "name": "Tincture of thyme"
+        },
+        {
+          "id": "64985309-27fd-4304-bd77-73d2f36ce2cb",
+          "name": "Occamy eggshell"
+        },
+        {
+          "id": "a42bb92a-bb78-4296-8269-5ca95367e331",
+          "name": "Ashwinder egg"
+        },
+        {
+          "id": "d4fe4f69-0a3a-48ae-88d6-7e9d3b5b23c2",
+          "name": "Powdered common rue"
+        },
+        {
+          "id": "eba4dd0f-a24f-4224-ac27-db8a507af000",
+          "name": "Squill bulb"
+        },
+        {
+          "id": "ec0f14b5-84a5-4c74-9602-52a79518d6d5",
+          "name": "Murtlap tentacle"
+        }
+      ],
+      "inventors": [
+        {
+          "id": "f86280b1-faa6-44fd-b8a9-f7a4556f8d20",
+          "firstName": "Zygmunt",
+          "lastName": "Budge"
+        }
+      ],
+      "manufacturer": null
+    },
+    "rawHeaders": {
+      "content-length": "948",
+      "content-type": "application/json; charset=utf-8",
+      "date": "Fri, 04 Apr 2025 08:57:38 GMT",
+      "nel": "{\"report_to\":\"heroku-nel\",\"response_headers\":[\"Via\"],\"max_age\":3600,\"success_fraction\":0.01,\"failure_fraction\":0.1}",
+      "report-to": "{\"group\":\"heroku-nel\",\"endpoints\":[{\"url\":\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D\\u0026sid=812dcc77-0bd0-43b1-a5f1-b25750382959\\u0026ts=1743757058\"}],\"max_age\":3600}",
+      "reporting-endpoints": "heroku-nel=\"https://nel.heroku.com/reports?s=JMb6eVtqNXrGieD4PnXKcTdlXelVJGmavq%2BbDRDpk%2FI%3D&sid=812dcc77-0bd0-43b1-a5f1-b25750382959&ts=1743757058\"",
+      "server": "Heroku",
+      "via": "1.1 heroku-router"
+    },
+    "responseIsBinary": false
+  }
+]
